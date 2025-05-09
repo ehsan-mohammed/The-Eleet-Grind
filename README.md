@@ -3,4 +3,4 @@
 
 I attempt to solve Leetcode problems every single day
 
-( With video solutions because why the not )
+( With video solutions because why not )

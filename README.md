@@ -2,3 +2,5 @@
 "An algorithm a day keeps unemployment away..." ~ Some smart programmer
 
 I attempt to solve Leetcode problems every single day
+
+( With video solutions because why the heck not )
